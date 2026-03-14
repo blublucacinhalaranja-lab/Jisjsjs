@@ -1,0 +1,5 @@
+@wait time="1s"
+@dialogue pos="L" portrait="shaggy" text="Zoinks! I lost control for a second..."
+@dialogue pos="L" portrait="shaggy" text="I'm sorry man, don't wanna make \nunfair for you or anything."
+@dialogue pos="R" portrait="bf" text="beep boop"
+@dialogue pos="L" portrait="shaggy:smug" text="Okay, like, get ready now and stuff"
