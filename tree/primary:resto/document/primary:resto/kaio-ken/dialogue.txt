@@ -1,0 +1,6 @@
+@wait time="1s"
+@dialogue pos="L" portrait="shaggy" text="You're like, actually good and stuff"
+@dialogue pos="L" portrait="shaggy" text="I don't wanna bore you, so I'll \nsing faster this time"
+@dialogue pos="R" portrait="bf" text="beep boop boop bap bee"
+@dialogue pos="L" portrait="shaggy:serious" text="..."
+@dialogue pos="L" portrait="shaggy:smug" text="Alright, alright... \nHere we go man!"
