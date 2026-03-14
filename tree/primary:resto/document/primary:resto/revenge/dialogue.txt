@@ -1,0 +1,8 @@
+@wait time="1s"
+@dialogue pos="L" portrait="matt:angry" text="Hello again punk"
+@dialogue pos="L" portrait="matt:angry" text="Remember me?"
+@dialogue pos="R" portrait="bf" text="beep boop"
+@dialogue pos="L" portrait="matt:back" text="Now you'll see how it feels"
+@dialogue pos="L" portrait="matt:angry" text="There's no way you can win this time."
+@dialogue pos="R" portrait="bf:happy" text="bap"
+@dialogue pos="L" portrait="matt:happy" text="Oh you funkin' bet!"
